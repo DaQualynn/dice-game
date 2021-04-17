@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  background-color: #26001b;
+  color: white;
+}
+
+h1{
+  margin-top: 4%;
+}
+
+.first-dice {
+  margin-top: 3%;
+}
+
+.second-dice {
+  margin-top: 3%;
+}
+
+.btn{
+  width: 50%;
+  margin-top: 8%;
+}
